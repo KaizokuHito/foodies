@@ -29,4 +29,11 @@ pipenv shell
 - [Module - Beautiful Soup Documentio](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Module - Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
 
+## 補充
+
+![](https://github.com/result0924/foodies/blob/master/image/pythoImportDir.png)
+可以進入`python`用`import`查詢是否有安裝套件<br />
+用`dir`查詢物件的屬性和方法<br />
+用`help`查詢方法的用途
+
 待續...
