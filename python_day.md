@@ -1,3 +1,13 @@
+# Usage
+
+```
+git clone git@github.com:KaizokuHito/foodies.git`
+cd foodies
+pipenv install --python 3.6
+pipenv shell
+```
+
+
 # 10/2 - Python Day 
 
 ## Topic
